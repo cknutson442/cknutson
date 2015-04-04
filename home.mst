@@ -1,0 +1,21 @@
+<div class="container">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+                <div class="panel panel-default">
+                        <!-- Default panel contents -->
+                        <div class="panel-heading"><h3 style="text-align:center">Welcome to CarsDB!</h3></div>
+
+                        <!-- List group -->
+                        <ul class="list-group">
+                                <li class="list-group-item">Sort and browse cars by their make, model year, or other technical specifications</li>
+                                <li class="list-group-item">Search our database to quickly find the car you're looking for</li>
+                                <li class="list-group-item">View pictures of each car, and learn about their technical specifications</li>
+                                <li class="list-group-item">Expand our database by adding cars that are not yet supported</li>
+                                <li class="list-group-item">It's free! Join today, or look around before you join!</li>
+                        </ul>
+                </div>
+
+                <a class="btn btn-primary" href="#" role="button">Sign Up!</a>
+        </div>
+        <div class="col-md-4"></div>
+</div>
