@@ -1,0 +1,42 @@
+<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css" />
+<script src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+
+<style>
+th {
+border:1px solid black;
+}
+td {
+border:1px solid black;
+}
+</style>
+<div class="jumbotron">
+<div class="container">
+<div class="col-md-4">
+<h3>Results for: rwd, v8, 4 door</h3>
+<table style="width:90%" id="resultsTable" class="display">
+<thead>
+<tr>
+	<th>Year</th>
+	<th>Make</th>
+	<th>Model</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>2014</td>
+	<td>Chevrolet</td>
+	<td>SS</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="col-md-8"></div>
+</div>
+</div>
+
+
+<script>
+	$(document).ready(function() {
+		//$("#resultsTable").dataTable();
+	});
+</script>
